@@ -1,5 +1,8 @@
 {
-  "name": "wiens_tyler_ui_garden",
+  "name": "@twiens3/wiens_tyler_ui_garden",
+  "publishConfig":{
+    "registry": "https://npm.pkg.github.com/twiens3"
+  },
   "version": "1.0.0",
   "scripts": {
     "rollup": "rollup -c"
