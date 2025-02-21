@@ -1,0 +1,26 @@
+{
+  "name": "wiens_tyler_ui_garden",
+  "version": "1.0.0",
+  "scripts": {
+    "rollup": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.0.10",
+    "react": "^19.0.0",
+    "rollup": "^4.34.8",
+    "rollup-plugin-dts": "^6.1.1",
+    "typescript": "^5.7.3"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts"
+}
