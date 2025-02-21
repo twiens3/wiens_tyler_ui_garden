@@ -5,7 +5,7 @@
   },
   "version": "1.0.0",
   "scripts": {
-    "rollup": "rollup -c"
+    "build": "rollup -c"
   },
   "author": "",
   "license": "ISC",
